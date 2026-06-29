@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1782662872 source:c:\users\laura\onedrive\computador\documentos\projeto show do milhao\showdomilhao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"questoes.h"
+	<windows.h>
+
+1782662920 c:\users\laura\onedrive\computador\documentos\projeto show do milhao\showdomilhao\questoes.h
+
+1782660754 source:c:\users\laura\onedrive\computador\documentos\projeto show do milhao\showdomilhao\questoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questoes.h"
+
+1782701222 source:c:\users\laura\onedrive\computador\documentos\showdomilhao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"questoes.h"
+	<windows.h>
+
+1782693216 c:\users\laura\onedrive\computador\documentos\showdomilhao\questoes.h
+
+1782693214 source:c:\users\laura\onedrive\computador\documentos\showdomilhao\questoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"questoes.h"
+
