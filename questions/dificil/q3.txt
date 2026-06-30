@@ -1,0 +1,6 @@
+Qual é a constante gravitacional de Newton (G) aproximadamente em m³/(kg·s²)?
+6.67 × 10^-11
+3.14 × 10^-10
+9.81 × 10^-12
+2.99 × 10^-9
+a
